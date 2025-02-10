@@ -1,0 +1,50 @@
+/* Cotton candy theming for clown fight */
+nav {
+    background-color: lightblue;
+    overflow: hidden;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+nav ul li {
+    float: left;
+}
+
+nav ul li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+
+nav ul li a:hover {
+    background-color: pink;
+}
+
+
+
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: pink;
+}
+
+
+div {
+    background-color: lightblue;
+    width: 100%;
+    height: 100%;
+    padding: 10px;
+    margin-top: 20px;
+    border: #111;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
